@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+
+# User-specific files
+*.iws
+*.iml
+*.ipr
+
+# Compiled bytecode
+out/
+
+# Sensitive or high-churn files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# Gradle
+.gradle/
+build/
+
+# Caching
+.caches/
+
+# Local configuration file (e.g., workspace.xml)
+.idea/*.xml
