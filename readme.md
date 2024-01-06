@@ -20,7 +20,7 @@ To get started with this repository, follow these steps:
 1. Clone or download the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/java-basics.git
+   git clone https://github.com/AtulSingh11-0/JAVA.git
    ```
 
 2. Install Java Development Kit (JDK) if you haven't already. You can download it from the official [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) website or choose an alternative like [OpenJDK](https://openjdk.java.net/).
