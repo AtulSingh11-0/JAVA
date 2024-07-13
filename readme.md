@@ -20,7 +20,7 @@ To get started with this repository, follow these steps:
 1. Clone or download the repository to your local machine:
 
    ```shell
-   git clone https://github.com/AtulSingh11-0/JAVA.git
+   https://github.com/AtulSingh11-0/Java-Basics.git
    ```
 
 2. Install Java Development Kit (JDK) if you haven't already. You can download it from the official [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) website or choose an alternative like [OpenJDK](https://openjdk.java.net/).
@@ -33,15 +33,11 @@ To get started with this repository, follow these steps:
 
 In this repository, you will find explanations and code examples for various Java topics, including but not limited to:
 
-- **Hello World**: Your first Java program.
-- **Variables and Data Types**: Learn how to declare and use variables.
-- **Operators**: Understand arithmetic, relational, and logical operators.
-- **Control Flow**: Explore if statements, loops (for, while, do-while), and switch statements.
-- **Functions and Methods**: Define and call functions/methods.
+- **Patterns**: Different types of pattern printing.
 - **Arrays**: Create and manipulate arrays.
-- **Object-Oriented Programming (OOP)**: Learn about classes, objects, inheritance, and polymorphism.
-- **Exception Handling**: Handle errors and exceptions gracefully.
-- **Collections**: Use ArrayList, HashMap, and other collection classes.
+- **Recursion**: Basics of Recursion, base casre, recursive case and how does stack overflow happens.
+- **Sorting Algorithms**: Sorting arrays using different algorithms. eg: Selection, Bubble, Merge, etc.
+- **Competitive Programming**: Basics of CP how to take input and how to input test cases.
 
 Feel free to explore the topics that interest you the most or follow the suggested order for a structured learning experience.
 
