@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays-Java/Arrays-Java.iml" filepath="$PROJECT_DIR$/Arrays-Java/Arrays-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Course.iml" filepath="$PROJECT_DIR$/Java-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practicals/Practicals.iml" filepath="$PROJECT_DIR$/Practicals/Practicals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Megatronix-Coding-Workshop-2023/loops/loops.iml" filepath="$PROJECT_DIR$/Megatronix-Coding-Workshop-2023/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Megatronix-Coding-Workshop-2023/scanner-class/scanner-class.iml" filepath="$PROJECT_DIR$/Megatronix-Coding-Workshop-2023/scanner-class/scanner-class.iml" />
+    </modules>
+  </component>
+</project>
